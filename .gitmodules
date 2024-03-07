@@ -1,0 +1,3 @@
+[submodule "lib/oled_driver"]
+	path = lib/oled_driver
+	url = git@github.com:devWithKD/RPi-Pico-OLED-DRIVER.git
